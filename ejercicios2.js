@@ -31,7 +31,7 @@ console.log(challenge.replace("JavaScript", "Python"));
 //13-What is character at index 15 in 'Long Days Of JavaScript' string? Use charAt() method.
 console.log(challenge.charAt(15));
 //14-What is the character code of J in 'Long Days Of JavaScript' string using charCodeAt()
-console.log(challenge.charCodeAt("j"));
+console.log(challenge.charCodeAt("J"));
 //15-Use indexOf to determine the position of the first occurrence of a in Long Days Of JavaScript
 console.log(challenge.indexOf("a"));
 //16-Use lastIndexOf to determine the position of the last occurrence of a in Long Days Of JavaScript.
